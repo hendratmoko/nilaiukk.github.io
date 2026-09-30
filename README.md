@@ -12,11 +12,6 @@ Dokumentasi hasil pengembangan aplikasi web peserta UKK Kompetensi Keahlian Reka
 | RPL 2 | 31 peserta |
 | **Total peserta** | **63 peserta** |
 
-## 🗂️ Keterangan Ikon
-
-- 🐈‍⬛ Repository GitHub
-- 🐈 GitHub Pages
-- ♾️ Hosting online
 
 ## 📚 Kelas XI RPL 1
 
