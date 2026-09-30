@@ -1,7 +1,7 @@
 UKK Maret 2026	
-♾️  Hosting (infinity)	
-🐈‍⬛  Repository GitHub	
-🐈  GitHub io	
+♾️  Hosting (infinity)
+🐈‍⬛  Repository GitHub
+🐈  GitHub io
 	
 RPL 2	
 1	AHMAD FAIZ RAMADHAN
